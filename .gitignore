@@ -10,3 +10,6 @@ __pycache__/
 
 # SQL queries
 query.txt
+
+# Virtual env folder
+env/
